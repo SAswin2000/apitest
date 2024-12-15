@@ -21,7 +21,7 @@ import ast
 import re
 
 
-from statparam import stat
+from sta import stat
 app = FastAPI(debug=True)
 
 @app.post("/stats/")
