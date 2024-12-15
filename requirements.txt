@@ -2,7 +2,7 @@ setuptools
 fastapi==0.95.2
 pytest
 uvicorn==0.22.0
-pandas==2.0.3
+pandas
 numpy
 httpx
 simplejson==3.18.3
