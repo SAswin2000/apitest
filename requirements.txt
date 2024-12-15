@@ -4,6 +4,7 @@ pytest
 uvicorn==0.22.0
 pandas==2.0.3
 numpy
+httpx
 simplejson==3.18.3
 python-multipart
 requests
