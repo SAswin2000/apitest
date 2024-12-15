@@ -50,7 +50,7 @@ jobs:
 
         python -m pip install --upgrade pip
         python -m pip install --upgrade setuptools[distutils]
-        python -m pip install numpy==1.23.5 --only-binary=:all:
+     
 
 
         pip install -r requirements.txt
